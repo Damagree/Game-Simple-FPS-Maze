@@ -1,5 +1,5 @@
 # Game-Simple-FPS-Maze
-assessment 1
+## Screenshoot Game
 
 ![assessment 1 menu](https://user-images.githubusercontent.com/45994275/55056584-11c74080-5099-11e9-9d90-30abd375b089.png)
 
